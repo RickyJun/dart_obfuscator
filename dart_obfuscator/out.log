@@ -1,0 +1,3 @@
+/Users/wenwenjun/Documents/flutter/bin/internal/update_engine_version.sh: line 74: /Users/wenwenjun/Documents/flutter/bin/cache/engine.stamp: Operation not permitted
+=== Launching AST-based Dart Obfuscator ===
+Error running dart obfuscator: Command '['dart', 'run', 'bin/dart_obfuscator.dart']' returned non-zero exit status 1.
